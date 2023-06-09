@@ -21,14 +21,17 @@ Genre Distribution
 To visualize the genre distribution, we created a bar chart using the matplotlib library. The x-axis represented the different genres, and the y-axis represented the count of movies/TV shows. The bar chart clearly displayed that the "Drama" genre had the highest count, indicating its popularity among the top-rated movies and TV shows.
 
 Director with the Most Top-rated Movies/TV Shows
+
 We further investigated the directors in the dataset to identify the director with the most top-rated movies/TV shows. Using pandas, we created a new DataFrame containing the count of movies/TV shows directed by each director. By analyzing this DataFrame, we found that director "Christopher Nolan" had the highest count of top-rated movies/TV shows.
 
 
 Director Distribution
+
 To visualize the director distribution, we created a bar chart using matplotlib. The x-axis represented the directors, and the y-axis represented the count of their top-rated movies/TV shows. The bar chart clearly displayed that "Christopher Nolan" had the highest count, indicating his prominence in directing top-rated movies/TV shows.
 
 
 Conclusion
+
 Based on our analysis of the IMDb dataset, we discovered that the most popular genre among the top 1000 movies and TV shows was "Drama." Additionally, director "Christopher Nolan" stood out with the highest count of top-rated movies/TV shows. These findings provide valuable insights into the preferences of viewers and the influence of directors in the entertainment industry.
 
 It's important to note that this analysis was based on a specific dataset and may not represent the entire IMDb database or the overall trends in the movie and TV show industry. Further analysis and exploration can be done to delve deeper into the relationships between genre, ratings, and directors.
